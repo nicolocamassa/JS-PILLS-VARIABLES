@@ -32,3 +32,15 @@ console.log(greet); */
 /* ESERCIZIO 4/C */
 greet += " Come stai?"
 console.log(greet)
+
+/* ESERCIZIO 5 */
+let n1 = 10;
+let n2 = 15;
+let comparison;
+
+if(n1>n2){
+    comparison = n1+" è maggiore di "+n2;
+}else{
+    comparison = n1+" è minore di "+n2;
+}
+console.log(comparison);
