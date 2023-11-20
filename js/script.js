@@ -26,5 +26,9 @@ let greet = "Ciao Mondo!";
 console.log(greet);
 
 /* ESERCIZIO 4/B */
-greet = "Come stai, Mondo?";
-console.log(greet);
+/* let greet = "Come stai?";
+console.log(greet); */
+
+/* ESERCIZIO 4/C */
+greet += " Come stai?"
+console.log(greet)
