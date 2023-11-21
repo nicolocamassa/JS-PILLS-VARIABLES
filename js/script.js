@@ -44,3 +44,18 @@ if(n1>n2){
     comparison = n1+" è minore di "+n2;
 }
 console.log(comparison);
+
+/* ESERCIZIO 6 */
+let string1 = "Ciao mondo";
+let string2 = "Come stai";
+let comparison2;
+
+if(string1 === string2){
+    comparison2 = "stringhe diverse"
+}else{
+    comparison2 = "stringhe uguali"
+}
+
+console.log(comparison2);
+
+
