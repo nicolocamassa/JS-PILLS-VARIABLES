@@ -50,12 +50,25 @@ let string1 = "Ciao mondo";
 let string2 = "Come stai";
 let comparison2;
 
-if(string1 === string2){
+if(string1 == string2){
     comparison2 = "stringhe diverse"
 }else{
     comparison2 = "stringhe uguali"
 }
 
 console.log(comparison2);
+
+/* ESERCIZIO 7 */
+let num = 1;
+let comparison3;
+
+if(num == '1'){
+    comparison3 = "i numeri sono uguali";
+}else{
+    comparison3 = "i numeri sono diversi";
+}
+
+console.log(comparison3);
+
 
 
