@@ -70,5 +70,8 @@ if(num == '1'){
 
 console.log(comparison3);
 
-
-
+/* ESERCIZIO 8 */
+let i;
+for(i = 1; i <= 42; i++){
+    console.log(i);
+}
